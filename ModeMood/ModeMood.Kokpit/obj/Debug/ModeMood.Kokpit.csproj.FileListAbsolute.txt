@@ -1,0 +1,7 @@
+C:\github\moodlereport\ModeMood\ModeMood.Kokpit\bin\Debug\ModeMood.Kokpit.exe.config
+C:\github\moodlereport\ModeMood\ModeMood.Kokpit\bin\Debug\ModeMood.Kokpit.exe
+C:\github\moodlereport\ModeMood\ModeMood.Kokpit\bin\Debug\ModeMood.Kokpit.pdb
+C:\github\moodlereport\ModeMood\ModeMood.Kokpit\obj\Debug\ModeMood.Kokpit.csprojAssemblyReference.cache
+C:\github\moodlereport\ModeMood\ModeMood.Kokpit\obj\Debug\ModeMood.Kokpit.csproj.CoreCompileInputs.cache
+C:\github\moodlereport\ModeMood\ModeMood.Kokpit\obj\Debug\ModeMood.Kokpit.exe
+C:\github\moodlereport\ModeMood\ModeMood.Kokpit\obj\Debug\ModeMood.Kokpit.pdb
